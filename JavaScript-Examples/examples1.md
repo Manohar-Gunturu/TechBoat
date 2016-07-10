@@ -58,12 +58,12 @@
 	
 #### Style Object Properties
 
-        | Property      | Description   |
-		| ------------- |:-------------:|
-		| background    | background properties |
-		| backgroundColor | background-color of an element|
-		| borderBottom | borderBottom* properties in one declaration |	
-		| borderBottomColor |color of the bottom border |
-		| display         | an element's display type  |
-        | fontSize        |   the font size of the text|
-        | marginRight     | right margin of an element |     		
+| Property      | Description   |
+| ------------- |-------------:|
+| background    | background properties |
+| backgroundColor | background-color of an element|
+| borderBottom | borderBottom* properties in one declaration |	
+| borderBottomColor |color of the bottom border |
+| display         | an element's display type  |
+| fontSize        |   the font size of the text|
+| marginRight     | right margin of an element |     		
