@@ -30,9 +30,11 @@ Every HTML tag creates an HTML element. In the below image there is a div tag wi
 To select an HTML element through JQuery you have to pass the HTML element tag name/class name/ID name/combination of these 3/any one of these three with attributes values to JQuery function as shown in below examples. 
 #### Examples: 
 To select an 'h4' tag element in a page: 
+
 ![alt text](http://uikindle.com/jquery/select_h.PNG "HTML tag")
 
 If an HTML page has 2 'h4' tags then JQuery will return a array of h4 elements 
+
 ![alt text](http://uikindle.com/jquery/h4.PNG "HTML tag")
 
 
