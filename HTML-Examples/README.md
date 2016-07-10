@@ -24,3 +24,6 @@ The <div> tag defines a division or a section in an HTML document, mostly used t
           </div>
         ```
 
+DIV'S can be nested.
+
+To know about each and every element in HTML goto https://developer.mozilla.org/en-US/docs/Web/HTML/Element
